@@ -19,7 +19,8 @@
 ## SKILL 👨🏻‍💻
 -ทักษะทางด้านการเขียนโปรแกรมภาษา HTML, PHP, Python, C, C#, C++ 
 
--ทักษะการใช้โปรแกรม Microsoft Office Word, Excel, PowerPoint, Visio
+-ทักษะการใช้โปรแกรม Microsoft Office Word, Excel, PowerPoint, Visio 
+
 -ทักษะการใช้งานโปรแกรมAdobe Photoshop, Adobe Dreamweaver
 ## ACTIVITES 👾
 1. Listening to music
